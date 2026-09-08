@@ -10,6 +10,9 @@
 <a href="https://t.me/kirillswed">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="48" alt="Telegram">
 </a>
+<a href="mailto:hireKirill@proton.me">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=proton" width="48" alt="Email">
+</a>
 
 ### Tech Stack
 
