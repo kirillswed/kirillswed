@@ -32,6 +32,12 @@
 
 ![Production and Analytics](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,linux,grafana,sentry,git&titles=true)
 
+#### IDEs & Coding Tools
+
+![IDEs and Coding Tools](https://go-skill-icons.vercel.app/api/icons?i=cursor,webstorm,pycharm,chatgpt)
+
+`Cursor` · `WebStorm` · `PyCharm` · `OpenAI Codex`
+
 #### Automation
 
 - CRM & payment workflows
