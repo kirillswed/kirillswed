@@ -5,6 +5,12 @@
 ![Open to Work](https://img.shields.io/badge/Open_to-Work-22C55E?style=for-the-badge)
 ![Open to Relocation](https://img.shields.io/badge/Open_to-Relocation-3B82F6?style=for-the-badge)
 
+### Connect with me
+
+<a href="https://t.me/kirillswed">
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="48" alt="Telegram">
+</a>
+
 ### Tech Stack
 
 #### Backend
