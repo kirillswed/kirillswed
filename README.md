@@ -34,9 +34,7 @@
 
 #### IDEs & Coding Tools
 
-![IDEs and Coding Tools](https://go-skill-icons.vercel.app/api/icons?i=cursor,webstorm,pycharm,chatgpt)
-
-`Cursor` · `WebStorm` · `PyCharm` · `OpenAI Codex`
+![IDEs and Coding Tools](https://go-skill-icons.vercel.app/api/icons?i=cursor,webstorm,pycharm,chatgpt,gemini)
 
 #### Automation
 
