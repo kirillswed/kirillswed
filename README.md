@@ -1,56 +1,9 @@
-# Hi, I'm Kirill 👋
+<p align="center">
+  <img src="assets/ascii-art-text.png" alt="Kirillswed — ASCII art" width="100%">
+</p>
 
-**Full-stack Engineer — Python / Go / React**
+**Full-stack Engineer · JS / Python**
 
-![Open to Work](https://img.shields.io/badge/Open_to-Work-22C55E?style=for-the-badge)
-![Open to Relocation](https://img.shields.io/badge/Open_to-Relocation-3B82F6?style=for-the-badge)
+[Telegram](https://t.me/kirillswed) · [Email](mailto:hireKirill@proton.me)
 
-### Connect with me
-
-<a href="https://t.me/kirillswed">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=telegram" width="48" alt="Telegram">
-</a>
-<a href="mailto:hireKirill@proton.me">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=proton" width="48" alt="Email">
-</a>
-
-### Tech Stack
-
-#### Backend
-
-![Backend](https://go-skill-icons.vercel.app/api/icons?i=python,golang,fastapi,sqlalchemy,api&titles=true)
-
-#### Frontend
-
-![Frontend](https://go-skill-icons.vercel.app/api/icons?i=typescript,javascript,react,nextjs,nodejs,html,css&titles=true)
-
-#### Databases
-
-![Databases](https://go-skill-icons.vercel.app/api/icons?i=postgresql,mysql,mongodb,redis&titles=true)
-
-#### Production & Analytics
-
-![Production and Analytics](https://go-skill-icons.vercel.app/api/icons?i=docker,nginx,linux,grafana,sentry,git&titles=true)
-
-#### IDEs & Coding Tools
-
-![IDEs and Coding Tools](https://go-skill-icons.vercel.app/api/icons?i=cursor,webstorm,pycharm,chatgpt,gemini)
-
-#### Automation
-
-- CRM & payment workflows
-- Webhook automation
-- Agentic workflows
-
-#### Languages
-
-![English B2](https://img.shields.io/badge/English-B2-1F6FEB?style=for-the-badge)
-![Russian Native](https://img.shields.io/badge/Russian-Native-D52B1E?style=for-the-badge)
-
-### Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kirillswed/kirillswed/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kirillswed/kirillswed/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/kirillswed/kirillswed/output/github-contribution-grid-snake.svg">
-</picture>
+Open to work · Open to relocation
