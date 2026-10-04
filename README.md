@@ -4,6 +4,6 @@
 
 **Full-stack Engineer · JS / Python**
 
-[Telegram](https://t.me/kirillswed) · [Email](mailto:hireKirill@proton.me)
+[Telegram](https://t.me/kirillit1) · [Email](mailto:hireKirill@proton.me)
 
 Open to work · Open to relocation
